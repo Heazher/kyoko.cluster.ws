@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: aliceblue;
+  background-color: black;
+  text-align: center;
+}
+
+.wheeze {
+  height: 100vh;
+  background-image: url(https://media.tenor.com/5cnT10al7ygAAAAC/flarewheeze-flare.gif);
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
